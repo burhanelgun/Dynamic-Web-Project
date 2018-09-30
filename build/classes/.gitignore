@@ -1,0 +1,10 @@
+/META-INF/
+/WEB-INF/
+/bean/
+/dao/
+/database.properties
+/example1/
+/interfaces/
+/listener/
+/log4j.properties
+/servlet/
