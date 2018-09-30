@@ -9,7 +9,8 @@ For running this project :
 4.Fill the user and password blanks with your username and password of github account.
 5.Next the scrrens and finish the import project.
 6.Go this path : Right click of the project -> New -> Other -> Server -> Tomcat v9.0 server and create this server.
-7.Run the project with using the Tomcat v9.0 server.
+7.Take the content of server.xml and context.xml in the ServerConfing folder and replace with Servers'.
+8.Run the project with using the Tomcat v9.0 server.
 
 
 ## Screenshots
