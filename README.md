@@ -11,7 +11,7 @@ For running this project :
 
 4.Fill the user and password blanks with your username and password of github account.
 
-5.Next the scrrens and finish the import project.
+5.Skip the screen and finish the import project.
 
 6.Go this path : Right click of the project -> New -> Other -> Server -> Tomcat v9.0 server and create this server.
 
